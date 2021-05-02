@@ -1,6 +1,7 @@
 @charset "utf-8";
 html{
-	background:image("Images/Homepage_BG.png") no-repeat center fixed;
+	background-image:url("Images/Homepage_BG.png");
+	background-repeat: no-repeat center fixed;
 	background-size:cover;
 }
 	h1{
